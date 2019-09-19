@@ -787,7 +787,7 @@ td, th {
 }
 
 .container.fullwidth {
-  width: 100%;
+  width: 50%;
 }
 
 .container.no-padding {
@@ -2474,6 +2474,16 @@ background-image: radial-gradient(circle,#00e6e6, #9999ff);
   position: relative;
 
 }
+
+
+@media  (max-width: 991px) {
+.banner-area {
+
+height: 700px !important;
+
+	}
+}
+
 
 .fullscreen  {
 

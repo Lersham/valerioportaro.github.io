@@ -370,7 +370,7 @@ sup {
 }
 
 a {
-  color: black;
+  color: #9999ff;
   text-decoration: none;
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
@@ -711,11 +711,11 @@ position: relative;
 @media  (max-width: 991px) {
 .img-fluid1 {
 
+margin-left: 40px;
+margin-bottom: :auto;
   margin: auto;
 width: 80%;
-margin-left: 30px;
  overflow: auto;
- margin-bottom: 30px;
 
 	}
 }
@@ -802,7 +802,6 @@ pre code {
 
 @media (min-width: 576px) {
   .container {
-
     max-width: 540px;
   }
 }
@@ -837,9 +836,9 @@ pre code {
 .row {
   display: flex;
   flex-wrap: wrap;
-  margin-right: -15px;
-  margin-left: -15px;
-  margin: 0;
+  margin-right: 30px;
+  margin-left: 30px;
+
 }
 
 .no-gutters {
