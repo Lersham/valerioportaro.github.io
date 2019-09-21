@@ -195,7 +195,6 @@ h4, .h4 {
 
 h5, .h5 {
   font-size: 16px;
-    color: #222222;
 }
 
 h6, .h6 {
@@ -2243,7 +2242,7 @@ background: white;
   bottom: 0;
   z-index: 998;
 background: #ffffff;
-  right: -260px;
+  left: -260px;
   width: 260px;
   overflow-y: auto;
   transition: 0.7s;
@@ -2291,7 +2290,7 @@ background: #ffffff;
 
 #mobile-nav ul .menu-has-children i {
   position: absolute;
-  left: 0;
+  right: 0;
   z-index: 99;
   padding: 15px;
   cursor: pointer;
@@ -2327,7 +2326,7 @@ body.mobile-nav-active {
 }
 
 body.mobile-nav-active #mobile-nav {
-  right: 0;
+  left: 0;
 }
 
 body.mobile-nav-active #mobile-nav-toggle {
@@ -2494,12 +2493,6 @@ position:absolute;
 
 }
 
-
-.banner-left h4 {
-  text-transform: uppercase;
-  font-weight: 400;
-  letter-spacing: 2px;
-}
 
 
 .banner-left h6 {
