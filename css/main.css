@@ -2493,6 +2493,14 @@ position:absolute;
 
 }
 
+@media  (max-width: 991px) {
+.fullscreen {
+
+height: 650px !important;
+
+	}
+}
+
 
 
 .banner-left h6 {
