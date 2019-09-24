@@ -2487,9 +2487,9 @@ height: 700px !important;
 
 .fullscreen  {
 
-  height: 800px !important;
+  height: 750px !important;
 
-position:fixed;
+position:absolute;
 
 }
 
@@ -2517,7 +2517,7 @@ position:fixed;
   box-shadow: 0px 20px 20px 0px rgba(132, 144, 255, 0.3);
 }
 
-@media (max-width: 1000px) {
+@media (max-width: 767px) {
   .banner-left {
     margin-top: 100px;
   }
