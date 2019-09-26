@@ -808,6 +808,8 @@ pre code {
   width: 100%;
   padding-right: 15px;
   padding-left: 15px;
+    padding-top: 25px;
+      padding-bottom: 15px;
   margin-right: auto;
   margin-left: auto;
 }
