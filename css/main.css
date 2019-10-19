@@ -2500,12 +2500,21 @@ position:absolute;
 
 }
 
-@media  (max-width: 991px) {
+@media  (max-width: 991px) and (min-height: 960px) {
 .fullscreen {
 
 height: 600px !important;
 
 	}
+}
+
+@media  (max-height: 960px) {
+.fullscreen {
+
+height: 440px !important;
+padding-top: 20px;
+
+  }
 }
 
 
@@ -2532,7 +2541,7 @@ height: 600px !important;
   box-shadow: 0px 20px 20px 0px rgba(132, 144, 255, 0.3);
 }
 
-@media (max-width: 767px) {
+@media (max-width: 767px) and (min-height: 900px) {
   .banner-left {
     margin-top: 100px;
   }
