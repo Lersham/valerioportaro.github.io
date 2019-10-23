@@ -725,7 +725,7 @@ width: 80%;
 @media  (max-width: 1000px) {
 .img-fluid1 {
 
-margin-top: 1rem;
+margin-top: 3rem;
 width: 70%;
  overflow: auto;
 
@@ -808,7 +808,7 @@ pre code {
   width: 100%;
   padding-right: 15px;
   padding-left: 15px;
-    padding-top: 25px;
+    padding-top: 100px;
       padding-bottom: 15px;
   margin-right: auto;
   margin-left: auto;

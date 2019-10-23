@@ -2487,7 +2487,7 @@ background-image: radial-gradient(circle,#00e6e6, #9999ff);
 .banner-area {
 
 height: 700px !important;
-
+  position: relative;
 	}
 }
 
@@ -2512,6 +2512,15 @@ height: 600px !important;
 .fullscreen {
 
 height: 440px !important;
+padding-top: 20px;
+
+  }
+}
+
+@media  (max-height: 760px) {
+.fullscreen {
+
+height: 340px !important;
 padding-top: 20px;
 
   }
