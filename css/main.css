@@ -2503,7 +2503,7 @@ position:absolute;
 @media  (max-width: 991px) and (min-height: 960px) {
 .fullscreen {
 
-height: 600px !important;
+height: 500px !important;
 
 	}
 }
@@ -2511,7 +2511,7 @@ height: 600px !important;
 @media  (max-height: 960px) {
 .fullscreen {
 
-height: 440px !important;
+height: 420px !important;
 padding-top: 20px;
 
   }
@@ -2520,7 +2520,7 @@ padding-top: 20px;
 @media  (max-height: 760px) {
 .fullscreen {
 
-height: 340px !important;
+height: 350px !important;
 padding-top: 20px;
 
   }
