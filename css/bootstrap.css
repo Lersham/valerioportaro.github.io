@@ -819,14 +819,14 @@ pre code {
 @media (min-width: 576px) {
   .container {
     max-width: 540px;
-        padding-top: 80px;
+        padding-top: 50px;
   }
 }
 
 @media (min-width: 768px) {
   .container {
     max-width: 720px;
-        padding-top: 85px;
+        padding-top: 65px;
 
   }
 }
@@ -834,7 +834,7 @@ pre code {
 @media (min-width: 992px) {
   .container {
     max-width: 960px;
-        padding-top: 90px;
+        padding-top: 80px;
   }
 }
 
