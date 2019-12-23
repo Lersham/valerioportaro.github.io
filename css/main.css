@@ -806,6 +806,10 @@ td, th {
   padding: 0;
 }
 
+.yes-padding {
+  padding: 20%;
+}
+
 .section-bg {
   background: #f9fafc;
 }
