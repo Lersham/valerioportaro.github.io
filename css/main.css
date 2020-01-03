@@ -1255,7 +1255,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .progress-table .visit {
-  width: 19.74%;
+
+
+
+  : 19.74%;
 }
 
 .progress-table .percentage {
@@ -1266,6 +1269,7 @@ h1, h2, h3, h4, h5, h6 {
 .progress-table .table-head {
   display: flex;
 }
+
 
 .progress-table .table-head .serial, .progress-table .table-head .country, .progress-table .table-head .visit, .progress-table .table-head .percentage {
   color: #222222;
